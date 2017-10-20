@@ -1,0 +1,21 @@
+@font-face {
+  font-family: 'Quattrocento';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Quattrocento'), url(https://web.archive.org/web/20170929202856im_/http://fonts.gstatic.com/s/quattrocento/v8/WZDISdyil4HsmirlOdBRFInF5uFdDttMLvmWuJdhhgs.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Quattrocento';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Quattrocento Bold'), local('Quattrocento-Bold'), url(https://web.archive.org/web/20170929202856im_/http://fonts.gstatic.com/s/quattrocento/v8/Uvi-cRwyvqFpl9j3oT2mqn06qf9KHRHwsVx7iw5MXmY.ttf) format('truetype');
+}
+
+/*
+     FILE ARCHIVED ON 20:28:56 Sep 29, 2017 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 14:02:40 Oct 20, 2017.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
