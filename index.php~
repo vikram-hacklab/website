@@ -1,0 +1,735 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script async="" src="./Hacklab.in- Learn.Innovate.Succeed_files/analytics.js"></script><script type="text/javascript" src="./Hacklab.in- Learn.Innovate.Succeed_files/analytics(1).js" charset="utf-8"></script>
+
+<link rel="stylesheet" type="text/css" href="./Hacklab.in- Learn.Innovate.Succeed_files/banner-styles.css">
+<link rel="stylesheet" type="text/css" href="./Hacklab.in- Learn.Innovate.Succeed_files/iconochive.css">
+
+<!-- End Wayback Rewrite JS Include -->
+	    
+	    <title>Hacklab.in- Learn.Innovate.Succeed </title>
+	    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	    <meta name="description" content="Hacklab is enabling innovators to 
+		work on their product ideas and solve challenging societal and technological problems">
+	    <meta name="author" content="Vikram Rastogi">
+	    <!-- Styles -->
+	    <link href="./Hacklab.in- Learn.Innovate.Succeed_files/bootstrap.css" rel="stylesheet">
+	    <link href="./Hacklab.in- Learn.Innovate.Succeed_files/style.css" rel="stylesheet">
+	    <link rel="stylesheet" id="prettyphoto-css" href="./Hacklab.in- Learn.Innovate.Succeed_files/prettyPhoto.css" type="text/css" media="all">
+	    <link href="./Hacklab.in- Learn.Innovate.Succeed_files/fontello.css" type="text/css" rel="stylesheet">
+	    <!--[if lt IE 7]>
+	            <link href="css/fontello-ie7.css" type="text/css" rel="stylesheet">  
+	        <![endif]-->
+	    <!-- Google Web fonts -->
+	    <link href="./Hacklab.in- Learn.Innovate.Succeed_files/css" rel="stylesheet" type="text/css">
+	    <link href="./Hacklab.in- Learn.Innovate.Succeed_files/css(1)" rel="stylesheet" type="text/css">
+	    <link href="./Hacklab.in- Learn.Innovate.Succeed_files/css(2)" rel="stylesheet" type="text/css">
+	    
+	    <style>
+	    body {
+	        padding-top: 60px; /* 60px to make the container go all the way to the bottom of the topbar */
+	    }
+	    </style>
+	    <link href="./Hacklab.in- Learn.Innovate.Succeed_files/bootstrap-responsive.css" rel="stylesheet">
+	    <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
+	    <!--[if lt IE 9]>
+	          <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	        <![endif]-->
+	    <!-- Favicon -->
+	    <link rel="shortcut icon" href="https://web.archive.org/web/20170929224402im_/http://www.hacklab.in/LOGO/favicon.ico">
+	    <!-- JQuery -->
+	    <script type="text/javascript" src="./Hacklab.in- Learn.Innovate.Succeed_files/jquery.js"></script>
+	    <!-- Load ScrollTo -->
+	    <script type="text/javascript" src="./Hacklab.in- Learn.Innovate.Succeed_files/jquery.scrollTo-1.4.2-min.js"></script>
+	    <!-- Load LocalScroll -->
+	    <script type="text/javascript" src="./Hacklab.in- Learn.Innovate.Succeed_files/jquery.localscroll-1.2.7-min.js"></script>
+	    <!-- prettyPhoto Initialization -->
+	    <script type="text/javascript" charset="utf-8">
+	          $(document).ready(function(){
+	            $("a[rel^='prettyPhoto']").prettyPhoto();
+	          });
+	        </script>
+	    </head>
+	    <body>
+<!-- END WAYBACK TOOLBAR INSERT -->
+	    <!--******************** NAVBAR ********************-->
+	    <div class="navbar-wrapper">
+	      <div class="navbar navbar-inverse navbar-fixed-top">
+	        <div class="navbar-inner">
+	          <div class="container">
+	            <!-- Responsive Navbar Part 1: Button for triggering responsive navbar (not covered in tutorial). Include responsive CSS to utilize. -->
+	            <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse"> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </a>
+				
+	            <h1 class="brand"><a href="http://www.hacklab.in/#top"><img src="./Hacklab.in- Learn.Innovate.Succeed_files/logo.png" width="40" height="40" alt=""></a> <a href="http://www.hacklab.in/#top">HackLab.in</a></h1>
+	            <!-- Responsive Navbar Part 2: Place all navbar contents you want collapsed withing .navbar-collapse.collapse. -->
+	            <nav class="pull-right nav-collapse collapse">
+	              <ul id="menu-main" class="nav">
+	                <li><a title="projects" href="http://www.hacklab.in/#projects">Projects</a></li>
+					<li><a title="group" href="http://www.hacklab.in/#group">Groups</a></li>
+	                <li><a title="product" href="http://www.hacklab.in/#products">Products</a></li>
+	                <li><a title="services" href="http://www.hacklab.in/#services">Services</a></li>
+	                <li><a title="awards" href="http://www.hacklab.in/#awards">Awards</a></li>
+	                <li><a title="events" href="http://www.hacklab.in/#events">Events</a></li>
+	                <li><a title="contact" href="http://www.hacklab.in/#contact">Contact</a></li>
+	              </ul>
+	            </nav>
+	          </div>
+	          <!-- /.container -->
+	        </div>
+	        <!-- /.navbar-inner -->
+	      </div>
+	      <!-- /.navbar -->
+	    </div>
+	    <!-- /.navbar-wrapper -->
+	    <div id="top"></div>
+	    <!-- ******************** HeaderWrap ********************-->
+	    <div id="headerwrap">
+	      <header class="clearfix">
+	        <!--h1 style="color:#f0ff00">Learn. Innovate. Succeed.</h1-->
+	        <div class="container">
+	          <div class="row">
+	            <div class="span12">
+				  <h2>Hacklab is enabling innovators &amp; entrepreneurs to work on their product idea and solve challenging
+	societal and technological problems.</h2>
+					<br>
+					<br>
+				</div>
+				<div class="span4">
+	              <!--h2>Become a member today</h2>
+	              <input type="text" name="your-email" placeholder="you@yourmail.com" class="cform-text" size="40" title="your email"--> 
+	              <!--input type="submit" value="Apply here" class="cform-submit" > <h3> to become a member </h3-->
+			<form action="https://goo.gl/forms/X1oK7g0vSEqXthlI2" method="get">
+	              		<input type="submit" value="Entrepreneurs" class="cform-submit"> <h3> Apply to be incubated </h3>
+			</form>
+			</div>
+			<div class="span4">
+	              <!--h2>Become a member today</h2>
+	              <input type="text" name="your-email" placeholder="you@yourmail.com" class="cform-text" size="40" title="your email"--> 
+	              <!--input type="submit" value="Apply here" class="cform-submit" > <h3> to become a member </h3-->
+			<form action="https://goo.gl/forms/d8fs1uhPBpq3kYHj2" method="get">
+	              		<input type="submit" value="Innovators" class="cform-submit"> <h3> Let's innovate together </h3>
+			</form>
+			</div>
+			<div class="span4">
+	              <!--h2>Become a member today</h2>
+	              <input type="text" name="your-email" placeholder="you@yourmail.com" class="cform-text" size="40" title="your email"--> 
+	              <!--input type="submit" value="Apply here" class="cform-submit" > <h3> to become a member </h3-->
+			<form action="https://goo.gl/forms/5RD0UYjny8UZClLz2" method="get">
+	              		<input type="submit" value="ProjectX" style="background-color: #ffffff;" class="cform-submit"> <h3> Only for Researchers </h3>
+			</form>
+			</div>
+			<div class="span12">
+			<form action="https://goo.gl/forms/uUURO5YtFnzkLwZY2" method="get">
+	              		<input type="submit" value="Students" class="cform-submit"> <h3> Intern with us </h3>
+			</form>
+	            </div>
+	          </div>
+	          <div class="row">
+	            <div class="span12">
+	              <ul class="icon">
+	                <!--li><a href="http://www.pinterest.com/hacklabin/" target="_blank"><i class="icon-pinterest-circled"></i></a></li-->
+	                <li><a href="https://www.facebook.com/HacklabInnovations" target="_blank"><i class="icon-facebook-circled"></i></a></li>
+	                <li><a href="https://twitter.com/hacklab_in" target="_blank"><i class="icon-twitter-circled"></i></a></li>
+	                <li><a href="https://plus.google.com/105280336613512458705/about" target="_blank"><i class="icon-gplus-circled"></i></a></li>
+	                <!--li><a href="#" target="_blank"><i class="icon-skype-circled"></i></a></li-->
+	              </ul>
+	            </div>
+	          </div>
+	        </div>
+	      </header>
+	    </div>
+	    <!--******************** Feature ********************-->
+	    
+	    <!--******************** Build projects Section ********************-->
+	    <section id="projects" class="single-page scrollblock">
+	      <div class="container">
+	        <div class="align"><i class="icon-desktop-circled"></i></div>
+	        <h1 id="folio-headline">Ongoing Projects</h1>
+	        <div class="row">
+	          <div class="span4">
+	            <div class="mask2"> <a href="http://www.hacklab.in/img/cruize.jpg" rel="prettyPhoto"><img src="./Hacklab.in- Learn.Innovate.Succeed_files/cruize.jpg" alt=""></a> </div>
+	            <div class="inside">
+	              <hgroup>
+	                <h2>Cruize - A smarter wheelchair</h2>
+	              </hgroup>
+	              <div class="entry-content">
+	                <p> We are trying to solve the problem of physically challenged people who cannot use either their hands or legs efficiently. Consequently, they have to depend upon others to move from one place to another. This wheelchair is an effort to make them believe that immobility won't be a problem anymore and they can still be independent.
+	</p> 
+	                <a class="more-link" href="http://cruize.in/">view project</a> </div>
+	            </div>
+	            <!-- /.inside -->
+	          </div>
+	          <!-- /.span4 -->
+	          <div class="span4">
+	            <div class="mask2"> <a href="http://www.hacklab.in/img/aami.jpg" rel="prettyPhoto"><img src="./Hacklab.in- Learn.Innovate.Succeed_files/aami.jpg" alt=""></a> </div>
+	            <div class="inside">
+	              <hgroup>
+	                <h2>AAMI -a smart reading assistant</h2>
+	              </hgroup>
+	              <div class="entry-content">
+	                <p>  AAMI is a small ring like device which one can easily put on the finger. The device has a camera and a processor which converts the text it sees into speech. So we can read a book by just scrolling over the line. Also there is a microphone to listen to the responses given by the user. This microphone provides an interface to the user to interact with the device. AAMI is mainly built to help a dyslexic child read a normal textbook. </p> 
+	                
+			<a class="more-link" href="http://aami.co/">view project</a> </div>
+	            </div>
+	            <!-- /.inside -->
+	          </div>
+	          <!-- /.span4 -->
+	          <div class="span4">
+	            <div class="mask2"> <a href="http://www.hacklab.in/img/smarthome.jpg" rel="prettyPhoto"><img src="./Hacklab.in- Learn.Innovate.Succeed_files/smarthome.jpg" alt=""></a> </div>
+	            <div class="inside">
+	              <hgroup>
+	                <h2> Smart Homes System</h2>
+	              </hgroup>
+	              <div class="entry-content">
+	                <p>Smart Homes(Home automation) is the residential extension of building automation. It includes centralized control of lighting, HVAC (heating, ventilation and air conditioning), appliances, security locks of gates 
+					and doors and other systems, to provide improved convenience, comfort, energy efficiency and security.</p>
+			<a class="more-link" href="http://www.hacklab.in/">view project</a> </div>
+	            </div>
+	            <!-- /.inside -->
+	          </div>
+	          <!-- /.span4 -->
+	        </div>
+	        <!-- /.row -->
+	        <div class="row">
+	          <div class="span4">
+	            <div class="mask2"> <a href="http://www.hacklab.in/img/altraa.png" rel="prettyPhoto"><img src="./Hacklab.in- Learn.Innovate.Succeed_files/altraa.png" alt=""></a> </div>
+	            <div class="inside">
+	              <hgroup>
+	                <h2>Altraa - Smart Pill Box</h2>
+	              </hgroup>
+	              <div class="entry-content">
+	                <p> Elderly people form a major chunk of people suffering from chronic diseases. They often tend to forget their medication complicating their medical problem. Hence, this pill box has been developed to remind patients (esp. people suffering from chronic diseases like T.B.) of their medication.There is an mobile app associated with this device. If a patient forgets to take his/her medication on time, an notification will be sent to the care-taker's mobile phone.
+	</p> 
+	                <a class="more-link" href="http://altraa.com/">view project</a> </div>
+	            </div>
+	            <!-- /.inside -->
+	          </div>
+	          <!-- /.span4 -->
+	          <div class="span4">
+	            <div class="mask2"> <a href="http://www.hacklab.in/img/afal.png" rel="prettyPhoto"><img src="./Hacklab.in- Learn.Innovate.Succeed_files/afal.png" alt=""></a> </div>
+	            <div class="inside">
+	              <hgroup>
+	                <h2>AFAL- Automatic Following All-terrain Luggage </h2>
+	              </hgroup>
+	              <div class="entry-content">
+	                <p>
+	AFAL(Automatic Following All-terrain Luggage) is a luggage bag which can climb stairs and can also follow the owner on most of the types of terrains. The bag is being specially designed for indian conditions like bad roads. Our futuristic design is very user friendly and gives the user a reason to show off and feel good about his investment.   
+	               </p> 
+			<a class="more-link" href="http://www.hacklab.in/#">view project</a> </div>
+	            </div>
+	            <!-- /.inside -->
+	          </div>
+	          <!-- /.span4 -->
+	          <div class="span4">
+	            <div class="mask2"> <a href="http://www.hacklab.in/img/vaccine.jpg" rel="prettyPhoto"><img src="./Hacklab.in- Learn.Innovate.Succeed_files/vaccine.jpg" alt=""></a> </div>
+	            <div class="inside">
+	              <hgroup>
+	                <h2> Smart Medicine Box</h2>
+	              </hgroup>
+	              <div class="entry-content">
+			<p>
+			Our project is a smart medical storage device. It addresses the problem of transportation and storage of medical substances such as vaccines and antibiotics. It is commonly observed that there is a huge loss of vaccines and other medical substances because of exposure to temperatures outside their allowed tolerable threshold. This causes them to lose their efficacy.
+	 Our innovation is meant to help maintain a constant temperature for vaccines/medicines in a cost effective and portable manner.  
+	</p>
+		
+		<a class="more-link" href="http://www.hacklab.in/#">view project</a> </div>
+	            </div>
+	            <!-- /.inside -->
+	          </div>
+	          <!-- /.span4 -->
+	        </div>
+	        <!-- /.row -->
+	        
+	        <div class="row">
+	          <div class="span4">
+	            <div class="mask2"> <a href="http://www.hacklab.in/img/WallPainter.png" rel="prettyPhoto"><img src="./Hacklab.in- Learn.Innovate.Succeed_files/WallPainter.png" alt=""></a> </div>
+	            <div class="inside">
+	              <hgroup>
+	                <h2> Autonomous Wall Painter Robot</h2>
+	              </hgroup>
+	              <div class="entry-content">
+	                <p>We are aiming to design an autonomous wall decorating robot which will be capable of painting any picture provided on the wall.
+					This will be extremely useful in drawing posters for political parties, painting and decorating exteriors and doing interior decoration of houses.</p>
+			<a class="more-link" href="http://www.hacklab.in/#">view project</a> </div>
+	            </div>
+	            <!-- /.inside -->
+	          </div>
+	          <!-- /.span4 -->
+	          <div class="span4">
+	            <div class="mask2"> <a href="http://www.hacklab.in/img/i2u2.jpg" rel="prettyPhoto"><img src="./Hacklab.in- Learn.Innovate.Succeed_files/i2u2.jpg" alt=""></a> </div>
+	            <div class="inside">
+	              <hgroup>
+	                <h2>I2U2 Telepresence Robot</h2>
+	              </hgroup>
+	              <div class="entry-content">
+	               <p> I2U2 is a telepresence robotic companion – it allows you to log into it from any compatible iOS, Android, Windows device, and take control of it, from anywhere in the world. Walk, talk and play at home, with the ones who matter, whenever you want, wherever you are.
+
+	</p>
+	 
+			<a class="more-link" href="http://www.i2u2robot.com/">view project</a> </div>
+	            </div>
+	            <!-- /.inside -->
+	          </div>
+	          <!-- /.span4 -->
+	          <div class="span4">
+	            <div class="mask2"> <a href="http://www.hackincloud.com/" rel="prettyPhoto"><img src="./Hacklab.in- Learn.Innovate.Succeed_files/hack.jpg" alt=""></a> </div>
+	            <div class="inside">
+	              <hgroup>
+	                <h2>HackInCloud </h2>
+	              </hgroup>
+	              <div class="entry-content">
+	                <p> Hack in Cloud is one of our dream to build an online platform where you can program the microcontroller, design the circuit , deploy the design at the hardware in the cloud and check the output instantly at the click of the button . With this platform we want the people to continue innovating and hacking with the resources present in the cloud.
+
+					</p>
+	                <a class="more-link" href="http://www.hackincloud.com/">view project</a> </div>
+	            </div>
+	            <!-- /.inside -->
+	          </div>
+	          <!-- /.span4 -->
+	          <div class="span4">
+	            <div class="mask2"> <a href="http://www.butterscotch.in/home" rel="prettyPhoto"><img src="./Hacklab.in- Learn.Innovate.Succeed_files/butterscotch.gif" alt=""></a> </div>
+	            <div class="inside">
+	              <hgroup>
+	                <h2>Butter Scotch eBike kit</h2>
+	              </hgroup>
+	              <div class="entry-content">
+	                <p> Butterscotch started as a very personal effort: <a href="https://www.linkedin.com/in/myshkin"> Myshkin </a> wanted a simple, usable, easy to run and easy to maintain electric bicycle, to use for his daily commute. His attempt is to simplify conversion kits so that anyone in their home, using simple tools, can convert their regular daily use bicycle into a hybrid. 
+	 
+
+					</p>
+	                <a class="more-link" href="http://www.butterscotch.in/">view project</a> </div>
+	            </div>
+	            <!-- /.inside -->
+	          </div>
+	          <!-- /.span4 -->
+	          <div class="span4">
+	            <div class="mask2"> <a href="http://smashbikes.com/" rel="prettyPhoto"><img src="./Hacklab.in- Learn.Innovate.Succeed_files/smashbikes.gif" alt=""></a> </div>
+	            <div class="inside">
+	              <hgroup>
+	                <h2>SMASH Bikes</h2>
+	              </hgroup>
+	              <div class="entry-content">
+	                <p> SMASH Bikes is a high end / high performance electric bike. Smash e-bikes are one of the most agile, confortable and affordable means of transportation available to us right now. They have a positive impact not only on your health but also on the environment. Launching soon.
+	 
+
+					</p>
+	                <a class="more-link" href="http://www.butterscotch.in/">view project</a> </div>
+	            </div>
+	            <!-- /.inside -->
+	          </div>
+	          <!-- /.span4 -->
+	        </div>
+	        <!-- /.row -->
+	      </div>
+	      <!-- /.container -->
+		  <a href="https://www.facebook.com/HacklabInnovations/" class="btn btn-small">More projects..</a> 
+	    </section>
+	    <hr>
+		
+		<!--******************** Groups ********************-->
+	    <section id="group" class="single-page scrollblock">
+	      <div class="container">
+	        <div class="align"><i class="icon-beaker"></i></div>
+	        <h1 id="folio-headline">Research @ Hacklab</h1>
+	        <div class="row">
+	          <div class="span4">
+	            <div class="mask2"> <a href="http://www.hacklab.in/img/robotic_arm.png" rel="prettyPhoto"><img src="./Hacklab.in- Learn.Innovate.Succeed_files/robotic_arm.png" alt=""></a> </div>
+	            <div class="inside">
+	              <hgroup>
+	                <h2>Robotics Arm </h2>
+	              </hgroup>
+	              <div class="entry-content">
+	                <p>
+	                This group aims to develop low-cost robotic arms that can learn for themselves - through artificial intelligence and reinforcement learning using visual cues as feedback. 
+	                More details coming soon.
+	                </p>
+	                <a class="more-link" href="http://www.hacklab.in/#"></a> </div>
+	            </div>
+	            <!-- /.inside -->
+	          </div>
+	          <!-- /.span4 -->
+	          <div class="span4">
+	            <div class="mask2"> <a href="http://www.hacklab.in/img/education.jpg" rel="prettyPhoto"><img src="./Hacklab.in- Learn.Innovate.Succeed_files/education.jpg" alt=""></a> </div>
+	            <div class="inside">
+	              <hgroup>
+	                <h2>Education </h2>
+	              </hgroup>
+	              <div class="entry-content">
+	                <p>This group dedicated to explore new techniques and technologies that can be used to educate the masses. The group is trying to figure out ways
+	                </p>
+	                <a class="more-link" href="http://www.hacklab.in/#"></a> </div>
+	            </div>
+	            <!-- /.inside -->
+	          </div>
+	          <!-- /.span4 -->
+	          <div class="span4">
+	            <div class="mask2"> <a href="http://www.hacklab.in/img/swarm.jpg" rel="prettyPhoto"><img src="./Hacklab.in- Learn.Innovate.Succeed_files/swarm.jpg" alt=""></a> </div>
+	            <div class="inside">
+	              <hgroup>
+	                <h2> Drone Swarming </h2>
+	              </hgroup>
+	              <div class="entry-content">
+	                <p>This group is developing new and innovative algorithms which allow multiple drones to communicate with each other and form swarms.
+	  </p>
+	                <a class="more-link" href="http://www.hacklab.in/#"></a> </div>
+	            </div>
+	            <!-- /.inside -->
+	          </div>
+	          <!-- /.span4 -->
+	        </div>
+	        </div></section>
+	        <section id="group" class="single-page scrollblock">
+	      <div class="container">
+	        <div class="align"><i class="icon-beaker"></i></div>
+	        <h1 id="folio-headline">Hacker Groups @ Hacklab</h1>
+	        
+	        <!-- /.row -->
+	        <div class="row">
+	          <div class="span4">
+	            <div class="mask2"> <a href="http://www.hacklab.in/img/iot.jpg" rel="prettyPhoto"><img src="./Hacklab.in- Learn.Innovate.Succeed_files/iot.jpg" alt=""></a> </div>
+	            <div class="inside">
+	              <hgroup>
+	                <h2>IoT group</h2>
+	              </hgroup>
+	              <div class="entry-content">
+	                <p>This group aims to connect disparate devices to one another via the web. We work on some cool projects focusing mostly on building smarter homes and industries.</p>
+	                <a class="more-link" href="http://www.hacklab.in/#"></a> </div>
+	            </div>
+	            <!-- /.inside -->
+	          </div>
+	          <!-- /.span4 -->
+	          <div class="span4">
+	            <div class="mask2"> <a href="http://www.hacklab.in/img/network.jpg" rel="prettyPhoto"><img src="./Hacklab.in- Learn.Innovate.Succeed_files/network.jpg" alt=""></a> </div>
+	            <div class="inside">
+	              <hgroup>
+	                <h2>Networking group </h2>
+	              </hgroup>
+	              <div class="entry-content">
+	                <p>This group work on some of the hottest new fields in the area of networking and designing web tools to provide various hardware services to remote users like remote experimentation.</p>
+	                <a class="more-link" href="http://www.hacklab.in/#"></a> </div>
+	            </div>
+	            <!-- /.inside -->
+	          </div>
+	          <!-- /.span4 -->
+	          <div class="span4">
+	            <div class="mask2"> <a href="http://www.hacklab.in/img/windmill.jpg" rel="prettyPhoto"><img src="./Hacklab.in- Learn.Innovate.Succeed_files/windmill.jpg" alt=""></a> </div>
+	            <div class="inside">
+	              <hgroup>
+	                <h2>Energy Hackers </h2>
+	              </hgroup>
+	              <div class="entry-content">
+	                <p>This group tries to find new ways to store the energy from sources like solar, heat, vibrations, etc. to power devices, smart fabrics and networks. </p>
+	                <a class="more-link" href="http://www.hacklab.in/#"></a> </div>
+	            </div>
+	            <!-- /.inside -->
+	          </div>
+	          <!-- /.span4 -->
+	        </div>
+	        <!-- /.row -->
+	        
+	        
+	      <!-- /.container -->
+		  <a href="https://www.facebook.com/HacklabInnovations/" class="btn btn-small">More info..</a> </div>
+	    </section>
+	    <hr>
+		   <!--******************** Products Section ********************-->
+	    <section id="products" class="single-page scrollblock">
+	      <div class="container">
+	        <!--div class="align"><i class="icon-pencil-circled"></i></div-->
+	        <h1>Products</h1>
+		<div class="row">
+	            
+	          
+	          <div class="span4">
+	            <div class="mask2"> <a href="http://www.hacklab.in/img/smashbikes.gif" rel="prettyPhoto"><img src="./Hacklab.in- Learn.Innovate.Succeed_files/smashbikes.gif" alt=""></a> </div>
+	            <div class="inside">
+	              <hgroup>
+	                <h2>Smash Bikes </h2>
+	              </hgroup>
+	              <p class="post-date">Launching Soon</p>
+	              <br>
+	              <div class="entry-content">
+	                <p> An agile, conformtable, affordable and eco-friendly means of transportation </p>
+	                <a class="more-link" href="http://www.hacklab.in/smashbikes.com">view store</a> </div>
+	            </div>
+	            <!-- /.inside -->
+	          </div>
+	         <div class="span4">
+	            <div class="mask2"> <a href="http://cogcable.com/" rel="prettyPhoto"><img src="./Hacklab.in- Learn.Innovate.Succeed_files/cog.jpg" alt=""></a> </div>
+	            <div class="inside">
+	              <hgroup>
+	                <h2>COG cable </h2>
+	              </hgroup>
+	              <p class="post-date">Launching Soon</p>
+	              <br>
+	              <div class="entry-content">
+	                <p> COG cable allows you to transfer charge directly from your friend's mobile phone.</p>
+	                <a class="more-link" href="http://cogcable.com/">view store</a>  </div>
+	            </div>
+	            <!-- /.inside -->
+	          </div>
+			  <div class="span4">
+	            <div class="mask2"> <a href="http://www.butterscotch.in/home" rel="prettyPhoto"><img src="./Hacklab.in- Learn.Innovate.Succeed_files/butterscotch.gif" alt=""></a> </div>
+	            <div class="inside">
+	              <hgroup>
+	                <h2>Butter Scotch eBike kit</h2>
+	              </hgroup>
+	              <p class="post-date">Launched in Mar</p>
+				<br>
+	              <div class="entry-content">
+	            <p> The Butterscotch eBike conversion kit contains everything you need to convert your bicycle into an electric. </p> 
+	            <p></p>
+	                <a class="more-link" href="http://www.butterscotch.in/store">view store</a> </div>
+	            </div>
+	            <!-- /.inside -->
+	          </div>
+		
+	          
+
+		
+		</div>
+		
+
+		<h1> <br> More products Launching Soon </h1>
+	        <!-- Three columns -->
+	        <div class="row">
+	          <article class="span4 post"> 
+	          </article>  
+		<!-- /.span4 -->
+	          <!--article class="span4 post"> <img class="img-news" src="img/gamification.jpg" alt="">
+	            <div class="inside">
+	              <p class="post-date">Launching Soon</p>
+	              <h2>Gamification - Introduction</h2>
+	              <div class="entry-content">
+	                <p>Everybody love games, we like playing it, getting those points, unlocking secret feature, rushing for bonus points, killing bad guys, and getting to the next level.
+					But what is it about games, which appeals to us, which makes people so crazy and spend hours upon hours on doing very similar  &hellip;</p>
+	                <a href="http://blog.hacklab.in/learn-with-hacklab-in/gamification-of-life-part-1/" class="more-link">read more</a> </div>
+	            </div-->
+	            <!-- /.inside -->
+	          <!--/article-->
+	          <article class="span4 post"> 
+	          </article>  
+	          <!-- /.span4 -->
+	        </div>
+		</div>
+	        <!-- /.row -->
+	      <!-- /.container -->
+	    </section>
+	 
+		
+		
+	    <!--******************** Services Section ********************-->
+	    <section id="services" class="single-page scrollblock">
+	      <div class="container">
+	        <div class="align"><i class="icon-cog-circled"></i></div>
+	        <h1>Services</h1>
+	        <!-- Four columns -->
+	        <div class="row">
+	          <div class="span3">
+	            <div class="align"> <i class="icon-desktop sev_icon"></i> </div>
+	            <h2>Co-working Space</h2>
+	            <p> We provide physical space for people to work and discuss their ideas. Hacklab is an ideal setting as you 
+				can get instant feedback and help on your ideas and other's work might also inspire and motivate you to work.
+			Afterall, Coworking is not only about the physical space, but also about establishing the coworking community first. </p>
+	          </div>
+	          <!-- /.span3 -->
+	          <div class="span3">
+	            <div class="align"> <i class="icon-vector sev_icon"></i> </div>
+	            <h2>3D Printing</h2>
+	            <p>We provide the cheapest 3Dprinting services in Bangalore. Members can avail the 3Dprinter free of charge and will have to pay only for the materials consumed. 
+				Non-members will be charged an time-based service charge extra for the service. We motivate people to become regular member to avail discounts.</p>
+	          </div>
+	          <!-- /.span3 -->
+	          <div class="span3">
+	            <div class="align"> <i class="icon-tools sev_icon"></i> </div>
+	            <h2>Technical Equipments</h2>
+	            <p>We have many development kits for development of hobby projects like Arduino and Raspberry Pi. We have spare laptops, quadcopters Energy harvesting kits, 
+				sensor boosters, embedded processor modules,  oscilloscopes and many more equipment for you to use and develop your projects on.</p>
+	          </div>
+	          <!-- /.span3 -->
+	          <div class="span3">
+	            <div class="align"> <i class="icon-mobile-1 sev_icon"></i> </div>
+	            <h2>Techinical Assistance</h2>
+	            <p> We provide techincal assistance to members with their project ideas. We don't believe in conducting scheduled training classes but promote members to have long discussion sessions
+				on their project topics.
+				Newbies can visit our blog to get basic information about our projects and their pre-requisites. 
+				</p>
+	          </div>
+	          <!-- /.span3 -->
+	        </div>
+	        <!-- /.row -->
+	      </div>
+	      <!-- /.container -->
+	    </section>
+	    <hr>
+		   <!--******************** Awards Section ********************-->
+	    <section id="awards" class="single-page scrollblock">
+	      <div class="container">
+	        <!--div class="align"><i class="icon-pencil-circled"></i></div-->
+	        <h1>Awards &amp; Media</h1>
+
+	        <!-- Three columns -->
+	        <div class="row">
+	          <article class="span4 post"> 
+	<img class="img-news" src="./Hacklab.in- Learn.Innovate.Succeed_files/award_aami.jpg" alt="">
+	            <div class="inside">
+	              <p class="post-date">August 2015</p>
+	              <h3>AAMI wins FICCI-TERUMO innovation award</h3>
+	              <div class="entry-content">
+	            </div>
+	          </div></article>  
+		<!-- /.span4 -->
+	          <article class="span4 post"> 
+	<img class="img-news" src="./Hacklab.in- Learn.Innovate.Succeed_files/powerofideas.jpg" alt="">
+	            <div class="inside">
+	              <p class="post-date">November 2015</p>
+	              <h3>MOPET among the top finalists</h3>
+	              <div class="entry-content">
+	             <p>
+
+
+			</p>
+			</div>
+	          </div></article>  
+	            <!-- /.inside -->
+	          <!--/article-->
+	          <article class="span4 post"> 
+	<img class="img-news" src="./Hacklab.in- Learn.Innovate.Succeed_files/eureka.jpg" alt="">
+	            <div class="inside">
+	              <p class="post-date">Jan 2016</p>
+	              <h3> AAMI wins "Touching the life" award at Eureka 2015</h3>
+	              <div class="entry-content">
+	             <p>
+
+
+			</p>
+			</div>
+	          </div></article>  
+	          <!-- /.span4 -->
+	        </div>
+		<br>
+		<div class="row">
+	          <article class="span4 post"> 
+	<a href="http://tech.economictimes.indiatimes.com/news/technology/hacklab-enables-startups-to-build-useful-hardware-innovations/50925163"><img class="img-news" src="./Hacklab.in- Learn.Innovate.Succeed_files/hacklab_ET.jpg" alt=""> </a>
+	            <div class="inside">
+	              <p class="post-date">Feb 10, 2016</p>
+	              <h3>Hacklab in ET</h3>
+	              <div class="entry-content">
+	            </div>
+	          </div></article>  
+		<!-- /.span4 -->
+	          <article class="span4 post"> 
+	<a href="https://yourstory.com/2016/07/aami/"><img class="img-news" src="./Hacklab.in- Learn.Innovate.Succeed_files/aami_YS.jpg" alt=""></a>
+	            <div class="inside">
+	              <p class="post-date">Jul 25, 2016</p>
+	              <h3>AAMI in YourStory</h3>
+	              <div class="entry-content">
+	             <p>
+
+
+			</p>
+			</div>
+	          </div></article>  
+	            <!-- /.inside -->
+	          <!--/article-->
+	          <article class="span4 post"> 
+	<a href="http://factordaily.com/cool-device-helps-visually-impaired-people-read-printed-books/"><img class="img-news" src="./Hacklab.in- Learn.Innovate.Succeed_files/aami.jpg" alt=""></a>
+	            <div class="inside">
+	              <p class="post-date">Sept 2016</p>
+	              <h3> AAMI features on FactorDaily</h3>
+	              <div class="entry-content">
+	             <p>
+
+
+			</p>
+			</div>
+	          </div></article>  
+	          <!-- /.span4 -->
+	        </div>
+		</div>
+	        <!-- /.row -->
+	      <!-- /.container -->
+	    </section>
+		   <!--******************** Events Section ********************-->
+	    <section id="events" class="single-page scrollblock">
+	      <div class="container">
+	        <!--div class="align"><i class="icon-pencil-circled"></i></div-->
+	        <h1>Events</h1>
+		<p> Hacklab is trying to develop a culture of knowledge sharing. We encourage people to work together more effectively, to collaborate and to share, both within Hacklab and outside. 
+	<br><a href="http://www.hackparty.in/">Hack party</a> is an initiative by Hacklab to promote hacking culture (esp. hardware hacking) in India. A HackParty is not a Hackathon. Its a simple and regular get-together of "hackers" to hack and socialize around their projects and passions. 
+
+		</p></div>
+	    </section>
+	    <hr>
+	    <!--******************** Contact Section ********************-->
+	    <section id="contact" class="single-page scrollblock">
+	      <div class="container">
+	        <div class="align"><i class="icon-phone"></i></div>
+	        <h1>Contact us now! <br> admin@hacklab.in <br> +91-9538069129</h1>
+	        <!--div class="row">
+	          <div class="span12">
+	            <div class="cform" id="theme-form">
+	              <form action="#" method="post" class="cform-form">
+	                <div class="row">
+	                  <div class="span6"> <span class="your-name">
+	                    <input type="text" name="your-name" placeholder="Your Name" class="cform-text" size="40" title="your name">
+	                    </span> </div>
+	                  <div class="span6"> <span class="your-email">
+	                    <input type="text" name="your-email" placeholder="Your Email" class="cform-text" size="40" title="your email">
+	                    </span> </div>
+	                </div>
+	                <div class="row">
+	                  <div class="span6"> <span class="company">
+	                    <input type="text" name="company" placeholder="Your Company" class="cform-text" size="40" title="company">
+	                    </span> </div>
+	                  <div class="span6"> <span class="website">
+	                    <input type="text" name="website" placeholder="Your Website" class="cform-text" size="40" title="website">
+	                    </span> </div>
+	                </div>
+	                <div class="row">
+	                  <div class="span12"> <span class="message">
+	                    <textarea name="message" class="cform-textarea" cols="40" rows="10" title="drop us a line."></textarea>
+	                    </span> </div>
+	                </div>
+	                <div>
+	                  <input type="submit" value="Send message" class="cform-submit pull-left">
+	                </div>
+	                <div class="cform-response-output"></div>
+	              </form>
+	            </div>
+	          </div>
+	          <!--  -->
+	        
+	        <!-- /.row -->
+	      </div>
+	      <!-- /.container -->
+	    </section>
+	    <hr>
+	    <div class="footer-wrapper">
+	      <div class="container">
+	        <footer>
+	          <small>© 2017 Hacklab . All rights reserved.</small>
+	        </footer>
+	      </div>
+	      <!-- ./container -->
+	    </div>
+	    <!-- Loading the javaScript at the end of the page -->
+	    <script type="text/javascript" src="./Hacklab.in- Learn.Innovate.Succeed_files/bootstrap.js"></script>
+	    <script type="text/javascript" src="./Hacklab.in- Learn.Innovate.Succeed_files/jquery.prettyPhoto.js"></script>
+	    <script type="text/javascript" src="./Hacklab.in- Learn.Innovate.Succeed_files/site.js"></script>
+	    <!--ANALYTICS CODE-->
+	   
+	<script>
+	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','//web.archive.org/web/20170929224402/http://www.google/-analytics.com/analytics.js','ga');
+
+	  ga('create', 'UA-50643932-2', 'auto');
+	  ga('send', 'pageview');
+
+	</script>
+
+	 
+	    
+	    
+</body></html>
